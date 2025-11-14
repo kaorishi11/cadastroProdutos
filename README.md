@@ -1,7 +1,6 @@
 # Sistema de Cadastro de Produtos - Projeto MVC
 Este projeto foi desenvolvido com o objetivo de aprender e praticar o padrão arquitetural **MVC (Model–View–Controller)** utilizando apenas HTML, CSS e JavaScript, sem banco de dados.
-
-O sistema permite cadastrar produtos, exibí-los na tela e entender como cada camada do MVC se comporta dentro de um projeto simples.
+---O sistema permite cadastrar produtos, exibí-los na tela e entender como cada camada do MVC se comporta dentro de um projeto simples.
 
 ## Estrutura do Projeto
 /projeto
